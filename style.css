@@ -65,6 +65,7 @@ input.form-group {
     border: 1px solid #d4def3;
     border-radius: 7px;
     outline: none;
+    position: sticky;
 }
 
 button.btn1 {
